@@ -66,3 +66,4 @@ end
 gem 'bootstrap-sass', '3.4.1'
 gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 5.13'
+gem 'bcrypt',         '3.1.13'
